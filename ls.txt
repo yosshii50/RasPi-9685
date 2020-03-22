@@ -1,8 +1,0 @@
-total 24
-drwxr-xr-x 2 www-data www-data 4096 Mar 18 21:34 .
-drwxr-xr-x 3 www-data www-data 4096 Mar 17 22:24 ..
--rwxr--r-- 1 www-data www-data  508 Mar 17 22:27 ajaxtest.php
--rwxr--r-- 1 www-data www-data 2567 Mar 18 21:29 index.php
--rwxr-xr-x 1 www-data www-data 2249 Mar 18 21:29 init.sh
--rw-r--r-- 1 www-data www-data    0 Mar 18 22:07 ls.txt
--rwxr--r-- 1 www-data www-data  406 Mar 18 21:34 test.php
